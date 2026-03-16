@@ -1,4 +1,4 @@
-## Hi there 👋
+## Serozet — building scalable systems from Cahul, Moldova 👋
 
 <!--
 
